@@ -1,0 +1,150 @@
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    color:firebrick;
+}
+h3{
+    font-weight: 1000;
+    font-size: 20px;
+}
+p{
+    color: dimgray;
+}
+.name-highlight{
+    color: orangered;
+    font-size: 45px;
+}
+
+.link-button{
+    background-image: linear-gradient(45deg, orange,tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+}
+.top-part{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.middle-part{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.half-width{
+    width: 38%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.middle-section{
+    text-align: center;
+    margin: auto;
+}
+.working-project{
+    background-color: rgb(240,240,240);
+    margin: auto;
+    height: 600px;
+    padding:10px;
+}
+.one-third-width {
+    width: 29%;
+    height: 380px;
+    background-color: white;
+    border-radius: 7%;
+    margin: 10px 20px;
+    padding: 5px 6px;
+    float: left;
+}
+.image1{
+    width:349px;
+    height: 213.23px;
+    padding: 5px 5px;
+    
+
+}
+.image2{
+    width:339px;
+    height:213px;
+    padding: 5px 5px;
+}
+.image3{
+    width:339px;
+    height:209px;
+    padding: 5px 5px ;
+}
+.last-part{
+    height: 300px;
+    background-color: white;
+    padding: 50px;
+
+}
+#box{
+
+    background-image: url("images/Group_33094_1.png");
+    background-position: center;
+    background-size: cover;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    border-radius: 20px;
+    
+
+}
+#work-process{
+    color:whitesmoke;
+    float:left;
+    margin-left:30px;
+    margin-top: 60px ;
+    padding: 15px 20px;
+    font-size: 53px;
+}
+#chatting{
+    float: right;
+    margin-right: 45px;
+    margin-top: 86px;
+    padding: 15px 20px;
+}
+
+.baby-part{
+    background-color: whitesmoke;
+    height: 700px;
+}
+.center{
+    margin: 10px auto 20px;
+    display: block;
+    text-align: center;
+    box-shadow: 10px 10px 10px rgba(135, 207, 235, 0.781);
+    border-radius: 5px;
+}
+.baby p{
+    text-align: left;
+    float: left;
+    margin:10px;
+    padding: 5px;
+    font-family: cursive;
+}
+footer h3{
+    font-size: large;
+    font-weight: 700;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: slategrey;
+
+}
+footer h4{
+    text-align: center;
+    font-size: 40px;
+    font-family:sans-serif;
+    font-weight: 800;
+    color: slategray;
+}
